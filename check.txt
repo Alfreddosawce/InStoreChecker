@@ -1,0 +1,101 @@
+store_id,location_name,tcin,title,quantity,price
+1947,Federal Way,94411681,Pokémon Trading Card Game: Team Rocket’s Mewtwo ex Box,0,21.99
+1947,Federal Way,94300072,Pokémon Trading Card Game: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection,0,99.99
+1947,Federal Way,94336414,Pokémon Trading Card Game: Scarlet & Violet—Prismatic Evolutions Surprise Box,0,24.99
+1947,Federal Way,94636862,Pokémon Trading Card Game: Scarlet & Violet— Black Bolt Elite Trainer Box,0,54.99
+1947,Federal Way,94681785,Pokémon Trading Card Game: Scarlet & Violet—White Flare Booster Bundle,0,29.99
+1947,Federal Way,94411699,Pokémon Trading Card Game: Rival Battle Deck—Steven,0,14.99
+1947,Federal Way,94300073,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Three-Booster Blister Zebstrika,0,14.99
+1947,Federal Way,94636863,2025 Pokémon Trading Card Game: Holiday Calendar,0,49.99
+1947,Federal Way,94681770,Pokémon Trading Card Game: Scarlet & Violet—Black Bolt Booster Bundle,0,29.99
+1947,Federal Way,94636860,Pokémon Trading Card Game: Scarlet & Violet— White Flare Elite Trainer Box,0,54.99
+1947,Federal Way,94636854,Pokémon Trading Card Game: Unova Poster Collection,0,21.99
+1947,Federal Way,88897904,Pokémon Scarlet Violet S3.5 Booster Bundle Box,0,27.99
+1947,Federal Way,94636856,Pokémon Trading Card Game: Scarlet & Violet—Black Bolt Binder Collection,0,31.99
+1947,Federal Way,94681780,Pokémon Trading Card Game: Scarlet & Violet -  White Flare Tech Sticker Collection,0,16.99
+1947,Federal Way,94636866,Pokémon Trading Card Game: Unova Victini Illustration Collection,0,21.99
+1947,Federal Way,94300067,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Booster Bundle,0,27.99
+1947,Federal Way,93803457,Pokémon Trading Card Game: Scarlet & Violet—Prismatic Evolutions Poster Collection,0,16.99
+1947,Federal Way,94300082,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Three-Booster Blister Kangaskhan,0,14.99
+1947,Federal Way,94300069,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Elite Trainer Box,0,54.99
+1947,Federal Way,93954435,,0,NULL
+996,Issaquah,94411681,Pokémon Trading Card Game: Team Rocket’s Mewtwo ex Box,0,21.99
+996,Issaquah,94300072,Pokémon Trading Card Game: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection,0,99.99
+996,Issaquah,94336414,Pokémon Trading Card Game: Scarlet & Violet—Prismatic Evolutions Surprise Box,0,24.99
+996,Issaquah,94636862,Pokémon Trading Card Game: Scarlet & Violet— Black Bolt Elite Trainer Box,0,54.99
+996,Issaquah,94681785,Pokémon Trading Card Game: Scarlet & Violet—White Flare Booster Bundle,0,29.99
+996,Issaquah,94411699,Pokémon Trading Card Game: Rival Battle Deck—Steven,0,14.99
+996,Issaquah,94300073,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Three-Booster Blister Zebstrika,0,14.99
+996,Issaquah,94636863,2025 Pokémon Trading Card Game: Holiday Calendar,0,49.99
+996,Issaquah,94681770,Pokémon Trading Card Game: Scarlet & Violet—Black Bolt Booster Bundle,0,29.99
+996,Issaquah,94636860,Pokémon Trading Card Game: Scarlet & Violet— White Flare Elite Trainer Box,0,54.99
+996,Issaquah,94636854,Pokémon Trading Card Game: Unova Poster Collection,0,21.99
+996,Issaquah,88897904,Pokémon Scarlet Violet S3.5 Booster Bundle Box,0,27.99
+996,Issaquah,94636856,Pokémon Trading Card Game: Scarlet & Violet—Black Bolt Binder Collection,0,31.99
+996,Issaquah,94681780,Pokémon Trading Card Game: Scarlet & Violet -  White Flare Tech Sticker Collection,0,16.99
+996,Issaquah,94636866,Pokémon Trading Card Game: Unova Victini Illustration Collection,0,21.99
+996,Issaquah,94300067,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Booster Bundle,0,27.99
+996,Issaquah,93803457,Pokémon Trading Card Game: Scarlet & Violet—Prismatic Evolutions Poster Collection,0,16.99
+996,Issaquah,94300082,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Three-Booster Blister Kangaskhan,0,14.99
+996,Issaquah,94300069,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Elite Trainer Box,0,54.99
+996,Issaquah,93954435,,0,NULL
+681,Kent,94411681,Pokémon Trading Card Game: Team Rocket’s Mewtwo ex Box,0,21.99
+681,Kent,94300072,Pokémon Trading Card Game: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection,0,99.99
+681,Kent,94336414,Pokémon Trading Card Game: Scarlet & Violet—Prismatic Evolutions Surprise Box,0,24.99
+681,Kent,94636862,Pokémon Trading Card Game: Scarlet & Violet— Black Bolt Elite Trainer Box,0,54.99
+681,Kent,94681785,Pokémon Trading Card Game: Scarlet & Violet—White Flare Booster Bundle,0,29.99
+681,Kent,94411699,Pokémon Trading Card Game: Rival Battle Deck—Steven,0,14.99
+681,Kent,94300073,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Three-Booster Blister Zebstrika,0,14.99
+681,Kent,94636863,2025 Pokémon Trading Card Game: Holiday Calendar,0,49.99
+681,Kent,94681770,Pokémon Trading Card Game: Scarlet & Violet—Black Bolt Booster Bundle,0,29.99
+681,Kent,94636860,Pokémon Trading Card Game: Scarlet & Violet— White Flare Elite Trainer Box,0,54.99
+681,Kent,94636854,Pokémon Trading Card Game: Unova Poster Collection,0,21.99
+681,Kent,88897904,Pokémon Scarlet Violet S3.5 Booster Bundle Box,0,27.99
+681,Kent,94636856,Pokémon Trading Card Game: Scarlet & Violet—Black Bolt Binder Collection,0,31.99
+681,Kent,94681780,Pokémon Trading Card Game: Scarlet & Violet -  White Flare Tech Sticker Collection,0,16.99
+681,Kent,94636866,Pokémon Trading Card Game: Unova Victini Illustration Collection,0,21.99
+681,Kent,94300067,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Booster Bundle,0,27.99
+681,Kent,93803457,Pokémon Trading Card Game: Scarlet & Violet—Prismatic Evolutions Poster Collection,0,16.99
+681,Kent,94300082,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Three-Booster Blister Kangaskhan,0,14.99
+681,Kent,94300069,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Elite Trainer Box,0,54.99
+681,Kent,93954435,,0,NULL
+2290,Renton,94411681,Pokémon Trading Card Game: Team Rocket’s Mewtwo ex Box,0,21.99
+2290,Renton,94300072,Pokémon Trading Card Game: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection,0,99.99
+2290,Renton,94336414,Pokémon Trading Card Game: Scarlet & Violet—Prismatic Evolutions Surprise Box,0,24.99
+2290,Renton,94636862,Pokémon Trading Card Game: Scarlet & Violet— Black Bolt Elite Trainer Box,0,54.99
+2290,Renton,94681785,Pokémon Trading Card Game: Scarlet & Violet—White Flare Booster Bundle,0,29.99
+2290,Renton,94411699,Pokémon Trading Card Game: Rival Battle Deck—Steven,0,14.99
+2290,Renton,94300073,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Three-Booster Blister Zebstrika,0,14.99
+2290,Renton,94636863,2025 Pokémon Trading Card Game: Holiday Calendar,0,49.99
+2290,Renton,94681770,Pokémon Trading Card Game: Scarlet & Violet—Black Bolt Booster Bundle,0,29.99
+2290,Renton,94636860,Pokémon Trading Card Game: Scarlet & Violet— White Flare Elite Trainer Box,0,54.99
+2290,Renton,94636854,Pokémon Trading Card Game: Unova Poster Collection,0,21.99
+2290,Renton,88897904,Pokémon Scarlet Violet S3.5 Booster Bundle Box,0,27.99
+2290,Renton,94636856,Pokémon Trading Card Game: Scarlet & Violet—Black Bolt Binder Collection,0,31.99
+2290,Renton,94681780,Pokémon Trading Card Game: Scarlet & Violet -  White Flare Tech Sticker Collection,0,16.99
+2290,Renton,94636866,Pokémon Trading Card Game: Unova Victini Illustration Collection,0,21.99
+2290,Renton,94300067,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Booster Bundle,0,27.99
+2290,Renton,93803457,Pokémon Trading Card Game: Scarlet & Violet—Prismatic Evolutions Poster Collection,0,16.99
+2290,Renton,94300082,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Three-Booster Blister Kangaskhan,0,14.99
+2290,Renton,94300069,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Elite Trainer Box,0,54.99
+2290,Renton,93954435,,0,NULL
+627,South Center,94411681,Pokémon Trading Card Game: Team Rocket’s Mewtwo ex Box,0,21.99
+627,South Center,94300072,Pokémon Trading Card Game: Scarlet & Violet—Prismatic Evolutions Super-Premium Collection,0,99.99
+627,South Center,94336414,Pokémon Trading Card Game: Scarlet & Violet—Prismatic Evolutions Surprise Box,0,24.99
+627,South Center,94636862,Pokémon Trading Card Game: Scarlet & Violet— Black Bolt Elite Trainer Box,0,54.99
+627,South Center,94681785,Pokémon Trading Card Game: Scarlet & Violet—White Flare Booster Bundle,0,29.99
+627,South Center,94411699,Pokémon Trading Card Game: Rival Battle Deck—Steven,0,14.99
+627,South Center,94300073,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Three-Booster Blister Zebstrika,0,14.99
+627,South Center,94636863,2025 Pokémon Trading Card Game: Holiday Calendar,0,49.99
+627,South Center,94681770,Pokémon Trading Card Game: Scarlet & Violet—Black Bolt Booster Bundle,0,29.99
+627,South Center,94636860,Pokémon Trading Card Game: Scarlet & Violet— White Flare Elite Trainer Box,0,54.99
+627,South Center,94636854,Pokémon Trading Card Game: Unova Poster Collection,0,21.99
+627,South Center,88897904,Pokémon Scarlet Violet S3.5 Booster Bundle Box,0,27.99
+627,South Center,94636856,Pokémon Trading Card Game: Scarlet & Violet—Black Bolt Binder Collection,0,31.99
+627,South Center,94681780,Pokémon Trading Card Game: Scarlet & Violet -  White Flare Tech Sticker Collection,0,16.99
+627,South Center,94636866,Pokémon Trading Card Game: Unova Victini Illustration Collection,0,21.99
+627,South Center,94300067,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Booster Bundle,0,27.99
+627,South Center,93803457,Pokémon Trading Card Game: Scarlet & Violet—Prismatic Evolutions Poster Collection,0,16.99
+627,South Center,94300082,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Three-Booster Blister Kangaskhan,0,14.99
+627,South Center,94300069,Pokémon Trading Card Game: Scarlet & Violet— Destined Rivals Elite Trainer Box,0,54.99
+627,South Center,93954435,,0,NULL
